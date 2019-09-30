@@ -1,0 +1,25 @@
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.exe.config
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.exe
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.pdb
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csprojAssemblyReference.cache
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmANN.resources
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmCalculateANN.resources
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmInputANNParameters.resources
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.Properties.Resources.resources
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csproj.GenerateResource.cache
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csproj.CoreCompileInputs.cache
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.exe
+F:\AY\VS_2017\C#\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.pdb
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.exe.config
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.exe
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\bin\Debug\CSAY ANN.pdb
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csprojAssemblyReference.cache
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmANN.resources
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmCalculateANN.resources
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmInputANNParameters.resources
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.Properties.Resources.resources
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csproj.GenerateResource.cache
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.csproj.CoreCompileInputs.cache
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.exe
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY ANN.pdb
+E:\AY\S\S2\VS_2019\CSAY ANN\CSAY ANN\obj\Debug\CSAY_ANN.FrmCalcMeanStdDev.resources
